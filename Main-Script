@@ -1,0 +1,3 @@
+if game.GameId == 142823291 then
+    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/93cc77329c2fbd78853e8d0b85860977d94eb439af753de851cd5a11238fe329/download"))()
+end
