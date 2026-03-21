@@ -3,5 +3,5 @@ repeat task.wait() until game.GameId ~= 0
 if game.GameId == 66654135 then
     loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/93cc77329c2fbd78853e8d0b85860977d94eb439af753de851cd5a11238fe329/download"))()
 elseif game.GameId == 9387269684 then
-    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f84d7609153958227c3748454ce47049b2a05772ed8d729cf48c734320111b91/download"))())
+    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f84d7609153958227c3748454ce47049b2a05772ed8d729cf48c734320111b91/download"))()
 end
