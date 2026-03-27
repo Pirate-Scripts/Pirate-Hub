@@ -6,4 +6,6 @@ elseif game.GameId == 9387269684 then
     loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f84d7609153958227c3748454ce47049b2a05772ed8d729cf48c734320111b91/download"))()
 elseif game.GameId == 7706951053 then
 	loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/e4f8f86d263149da872035e4b64218cf4173b162eb52c72d8ff518ffae629bee/download"))()
+elseif game.GameId == 7219654364 then
+	loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/722caa6a25fcbc48cda2061c80afd94cecde125ab3ce0d2be9ea1847e97af7b8/download"))()
 end
